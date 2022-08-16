@@ -1,5 +1,1 @@
-# kutuphane-otomasyon![1](https://user-images.githubusercontent.com/111317861/184877630-caa0d636-0297-457e-81f8-8b58e12e36a4.PNG)
-![2](https://user-images.githubusercontent.com/111317861/184877635-416ca507-e403-4704-b217-bf86c38c95a0.PNG)
-![3](https://user-images.githubusercontent.com/111317861/184877637-fefe0c4d-1558-43ae-b4ac-50f0be56ecac.PNG)
-![4](https://user-images.githubusercontent.com/111317861/184877640-3dd9b46d-5de0-4380-81a0-292c5ac1cc9f.PNG)
-![5](https://user-images.githubusercontent.com/111317861/184877643-2be668a5-e930-4035-bee2-9c0d2e08c1e3.PNG)
+# kutuphane-otomasyon![1]
