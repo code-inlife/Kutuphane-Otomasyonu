@@ -1,1 +1,1 @@
-# kutuphane-otomasyon![1]
+# kutuphane-otomasyon!
